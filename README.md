@@ -23,7 +23,7 @@ The [API reference](https://atom.io/docs/api) for developing packages is also do
 
 ### OS X
 
-Download the latest [Atom release](https://github.com/atom/atom/releases/latest).
+Download the latest [atom-mac.zip](https://github.com/atom/atom/releases/latest).
 
 Atom will automatically update when a new release is available.
 
